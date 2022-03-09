@@ -15,7 +15,7 @@ on:
 
 env:
   APIMESLZ_PATH : ./apim-eslz
-  DEPLOYMENT_LOCATION: westeurope
+  DEPLOYMENT_LOCATION: canadacentral
   DEPLOYMENT_NAME: apim-eslz
   WORKLOAD_NAME: apim-eslz
   ESLZ_ENVIRONMENT_TYPE: dev #options: dev, uat, prod, dr
