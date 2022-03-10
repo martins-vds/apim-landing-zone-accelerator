@@ -7,7 +7,7 @@ variables:
 - name: serviceConnectionName   # Name of the serviceconnection to the target ESLZ Azure subscription
   value: my-ESLZ
 - name: deploymentLocation      # Azure region to deploy recources into
-  value: westeurope
+  value: canadacentral
 - name: deploymentName          # Name of deployment to label ARM deployments in the Azure Portal
   value: 'api-management-ESLZ'
 - name: artifactName            # Name of the pipeline artifact to be created and deployed
